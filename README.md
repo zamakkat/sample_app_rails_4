@@ -15,7 +15,7 @@ by [Michael Hartl](http://michaelhartl.com/). You can use this reference impleme
 
 If the tests don't pass, it means there may be something wrong with your system. If they do pass, then you can debug your code by comparing it with the reference implementation.
 
-## Get started in seconds on Nitrous.IO
+## Get Started in seconds on Nitrous.IO
 
 [Nitrous.IO](https://www.nitrous.io/?utm_source=github.com&utm_campaign=railstutorial-sample_app_rails_4&utm_medium=hackonnitrous) is a cloud-based platform that will let you start working on this project in a matter of seconds.
 
